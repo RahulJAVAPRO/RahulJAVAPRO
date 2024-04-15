@@ -1,14 +1,14 @@
 ![logo](https://github.com/RahulJAVAPRO/My-DSA-Journey/blob/main/Rahul%20saini%20(1).png)
 <h3 align="center">Aspiring JAVA developer</h3>
 
-<img align = "right" alt = "coding" Width"400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 - 🌱 I’m currently learning **DSA in JAVA**
 
 - 📫 How to reach me **rahullsain8619@gmail.com**
 
 
 - ⚡ Fun fact **I am funny😂😂**
+
+- <img align = "right" alt = "coding" Width"400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
