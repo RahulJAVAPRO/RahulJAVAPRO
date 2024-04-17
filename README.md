@@ -1,4 +1,4 @@
-![logo](https://github.com/RahulJAVAPRO/My-DSA-Journey/blob/main/Rahul%20saini%20(1).png)
+![logo](https://github.com/RahulJAVAPRO/RahulJAVAPRO/blob/main/Rahul%20saini%20(1).png)
 <h3 align="center">Aspiring JAVA developer</h3>
 
 - 🌱 I’m currently learning **DSA in JAVA**
