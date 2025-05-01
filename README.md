@@ -15,9 +15,15 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="linkedin.com/in/rahul-saini-b4a46429a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="[https://instagram.com/its_rahul_saini20](https://www.instagram.com/rahul_saini8619/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
-  <a href="[https://leetcode.com/its_rahul_saini40](https://leetcode.com/u/its_rahul_saini40/)" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/rahul-saini-b4a46429a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/rahul_saini8619/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/its_rahul_saini40/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" />
+  </a>
 </p>
 
 ---
